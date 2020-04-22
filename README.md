@@ -2,3 +2,5 @@
 Use RaspberryPI 3B to run it  
 if you want to catch your face and run the camera  
 please change the “face.jpg” in fold and in “catchFace.py” code  
+![Picture1](picture1.jpg)  
+![Picture2](picture2.jpg)
